@@ -1,0 +1,10 @@
+.carrossel-container {
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 5px;
+  }
+
+  .carrossel-container img{
+    border-radius: 5px;
+  }
